@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="--&gt; Aimbot">
+      <UniqueIdentifier>{4eade9f8-f6d2-43cd-bb75-062ab2944d57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP">
+      <UniqueIdentifier>{8501fff4-856b-4d8f-bba3-546c942ccdc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; cDrawManger">
+      <UniqueIdentifier>{cb2e8350-ac8e-4ee2-bfe5-24b468369f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Gui">
+      <UniqueIdentifier>{af3f0da3-c614-4165-b6d7-64aad29294d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Headers">
+      <UniqueIdentifier>{fc34607a-ea72-42b4-8d37-3809427da913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Main">
+      <UniqueIdentifier>{a4dd48bf-f953-47ec-ad0d-f758760252cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP\--&gt; ESP Headers">
+      <UniqueIdentifier>{3dda12d3-ca68-486a-9ad5-266044daffc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP\--&gt; ESP Main">
+      <UniqueIdentifier>{17ec84b6-0654-4737-923e-2282b913e9ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP\--&gt; ESP Headers\--&gt; Glow Headers">
+      <UniqueIdentifier>{e4689ff1-4e18-4814-8065-71ec90a2c9d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP\--&gt; ESP Main\--&gt; Glow Main">
+      <UniqueIdentifier>{063c1cfd-2f6e-4b27-865c-c2c3795ebf6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP\--&gt; ESP Headers\--&gt; Chams Headers">
+      <UniqueIdentifier>{34d5d962-eb2e-4d41-b77d-5b901dcbc198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; ESP\--&gt; ESP Main\--&gt; Chams Main">
+      <UniqueIdentifier>{8bfbb2b3-d7fd-4274-bc7b-c94f9a593acc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; cDrawManger\--&gt; Colors">
+      <UniqueIdentifier>{52b19993-f5aa-4121-a9d2-e0d7f5df407c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; cDrawManger\--&gt; Draw Headers">
+      <UniqueIdentifier>{f8a25dbb-6a30-413d-85cd-3cc5e6c29df6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; cDrawManger\--&gt; Draw Main">
+      <UniqueIdentifier>{0a07d045-1d8b-45f1-840e-4922e1e47590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Gui\--&gt; Menu Headers">
+      <UniqueIdentifier>{de8b0d4e-8eb0-49ea-a6e3-f3e1dca693d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Gui\--&gt; Menu Main">
+      <UniqueIdentifier>{2b43a7d5-7a64-40b2-8d7f-33e32f6c3dd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Vars">
+      <UniqueIdentifier>{55d7ee82-246e-48d5-aae7-84ef8799871c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Headers\---&gt; Hit Scan">
+      <UniqueIdentifier>{d4ad63fb-dd9c-48d0-8718-4d62abb9e8bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Headers\---&gt; No Zoom">
+      <UniqueIdentifier>{c29f09c9-7326-42e0-b196-e78be831bfc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Headers\---&gt; Targets">
+      <UniqueIdentifier>{872963e3-cc3d-4462-95b9-af0ba8abcd4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Main\---&gt; Hit Scan">
+      <UniqueIdentifier>{7ce01d87-404c-4674-ae51-539f24a4c1b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Main\---&gt; No Zoom">
+      <UniqueIdentifier>{5cff74ec-d300-4b88-92ca-f8164c55acd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Aimbot\--&gt; Aimbot Main\---&gt; Targets">
+      <UniqueIdentifier>{b6bf302f-69bb-4554-ac0d-1efe48476b43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Vars\---&gt; Var Headers">
+      <UniqueIdentifier>{c9591b1c-4cca-4583-9117-ac2a7bce5f8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Vars\---&gt; Vars Source">
+      <UniqueIdentifier>{0fc28559-5534-4319-8090-0c6bd1f06279}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Vars\--&gt; Includes">
+      <UniqueIdentifier>{72380a8b-9035-48aa-aa12-4f867032b51d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="--&gt; Vars\--&gt; Includes\---&gt; Includes Headers">
+      <UniqueIdentifier>{aa3feaa6-534c-42e1-9287-64f9389c3ba6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AimbotHitScan.cpp">
+      <Filter>--&gt; Aimbot\--&gt; Aimbot Main\---&gt; Hit Scan</Filter>
+    </ClCompile>
+    <ClCompile Include="AimbotNoZoom.cpp">
+      <Filter>--&gt; Aimbot\--&gt; Aimbot Main\---&gt; No Zoom</Filter>
+    </ClCompile>
+    <ClCompile Include="AimbotTarget.cpp">
+      <Filter>--&gt; Aimbot\--&gt; Aimbot Main\---&gt; Targets</Filter>
+    </ClCompile>
+    <ClCompile Include="CGlobalVars.cpp">
+      <Filter>--&gt; Vars\---&gt; Vars Source</Filter>
+    </ClCompile>
+    <ClCompile Include="CNetVars.cpp">
+      <Filter>--&gt; Vars\---&gt; Vars Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AimbotHitScan.hh">
+      <Filter>--&gt; Aimbot\--&gt; Aimbot Headers\---&gt; Hit Scan</Filter>
+    </ClInclude>
+    <ClInclude Include="AimbotNoZoom.h">
+      <Filter>--&gt; Aimbot\--&gt; Aimbot Headers\---&gt; No Zoom</Filter>
+    </ClInclude>
+    <ClInclude Include="AimbotTarget.h">
+      <Filter>--&gt; Aimbot\--&gt; Aimbot Headers\---&gt; Targets</Filter>
+    </ClInclude>
+    <ClInclude Include="CGlobalVars.h">
+      <Filter>--&gt; Vars\---&gt; Var Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK.h">
+      <Filter>--&gt; Vars\--&gt; Includes\---&gt; Includes Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CNetVars.h">
+      <Filter>--&gt; Vars\---&gt; Var Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="dr_recv2.h">
+      <Filter>--&gt; Vars\--&gt; Includes\---&gt; Includes Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
